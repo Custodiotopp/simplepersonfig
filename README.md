@@ -8,6 +8,7 @@ E caso não tenhas no inicio no <head>
 
 E no styles.css ou o css que usas
 
+```
 #person {
     width: 20px;
     height: 20px;
@@ -26,6 +27,7 @@ E no styles.css ou o css que usas
     left: -10px;
     border-radius: 50% 50% 0% 0%;
 }
+```
 
 Feito por Custodio
 Creditos: (INSTA) _dailycoding
